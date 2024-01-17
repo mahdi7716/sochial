@@ -1,0 +1,26 @@
+export const TrendData=[
+    {
+        name:"Siamak",
+        shares:64,
+    },
+    {
+        name:"Tahmors",
+        shares:86,
+    },
+    {
+        name:"Jamshid",
+        shares:93.5,
+    },
+    {
+        name:"Zal",
+        shares:71.2,
+    },
+    {
+        name:"Rostam",
+        shares:55,
+    },
+    {
+        name:"Sivash",
+        shares:77.7,
+    },
+]
